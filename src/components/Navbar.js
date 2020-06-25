@@ -16,7 +16,7 @@ const Navbar = ({ toggleSidebar }) => {
 
         <ul>
           <li>
-            <Link to='/home' class='btn btn-success'>
+            <Link to='/' class='btn btn-primary'>
               Home
             </Link>
           </li>

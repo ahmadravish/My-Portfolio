@@ -4,7 +4,6 @@ const Footer = () => {
   return (
     <footer className='footer'>
       <div>
-        Links
         <h4>
           copyright&copy;{new Date().getFullYear()}
           <span> WebDev </span> all rights reserved
